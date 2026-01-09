@@ -1,6 +1,4 @@
-# Predicción de Tiempos de Producción mediante
-# Aprendizaje Automático: Integración de Datos Reales y
-# Sintéticos en Procesos de Corte Láser y Plegado
+# Predicción de Tiempos de Producción mediante Aprendizaje Automático: Integración de Datos Reales y Sintéticos en Procesos de Corte Láser y Plegado
 
 ## Trabajo Final de Máster - Ciencia de Datos (UOC, 2025)
 
@@ -75,4 +73,5 @@ seaborn>=0.12.0
 ezdxf>=1.0.0
 jupyter>=1.0.0
 openpyxl>=3.1.0
+
 tqdm>=4.65.0
