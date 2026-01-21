@@ -1,0 +1,45 @@
+{
+  "fecha_validacion": "20251213",
+  "metodologia": "Sin data leakage - solo datos de test",
+  "n_calibracion": 87,
+  "n_test": 88,
+  "n_materiales": 18,
+  "metricas_test": {
+    "r2": 0.5717,
+    "mae_seg": 16.7,
+    "mape_pct": 99.9
+  },
+  "por_confianza": {
+    "alta": {
+      "n": 40,
+      "pct": 45.5,
+      "r2": 0.83
+    },
+    "media": {
+      "n": 12,
+      "pct": 13.6,
+      "r2": 0.157
+    },
+    "baja": {
+      "n": 36,
+      "pct": 40.9,
+      "r2": 0.678
+    }
+  },
+  "precision_rangos": {
+    "15_seg": 64.8,
+    "30_seg": 86.4,
+    "60_seg": 96.6
+  },
+  "materiales_mejor": {
+    "1.4301-20": 1.2,
+    "St37-18": 2.7,
+    "1.4301-80": 4.4,
+    "GALVA-15": 6.0,
+    "1.4301-40": 6.2
+  },
+  "materiales_problematicos": {
+    "St37-7": 36.9,
+    "GALVA-20": 122.3
+  }
+}
